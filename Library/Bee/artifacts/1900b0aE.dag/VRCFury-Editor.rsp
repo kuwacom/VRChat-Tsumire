@@ -1,0 +1,675 @@
+-target:library
+-out:"Library/Bee/artifacts/1900b0aE.dag/VRCFury-Editor.dll"
+-refout:"Library/Bee/artifacts/1900b0aE.dag/VRCFury-Editor.ref.dll"
+-define:UNITY_2022_3_22
+-define:UNITY_2022_3
+-define:UNITY_2022
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:UNITY_2022_1_OR_NEWER
+-define:UNITY_2022_2_OR_NEWER
+-define:UNITY_2022_3_OR_NEWER
+-define:PLATFORM_ARCH_64
+-define:UNITY_64
+-define:UNITY_INCLUDE_TESTS
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_VIRTUALTEXTURING
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_EDITOR_GAME_SERVICES
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_MANAGED_UNITYTLS
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_VIDEO
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:ENABLE_NAVIGATION_PACKAGE_DEBUG_VISUALIZATION
+-define:ENABLE_NAVIGATION_HEIGHTMESH_RUNTIME_SUPPORT
+-define:ENABLE_NAVIGATION_UI_REQUIRES_PACKAGE
+-define:PLATFORM_STANDALONE
+-define:TEXTCORE_1_0_OR_NEWER
+-define:PLATFORM_STANDALONE_WIN
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_NVIDIA
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_OUT_OF_PROCESS_CRASH_HANDLER
+-define:ENABLE_CLUSTER_SYNC
+-define:ENABLE_CLUSTERINPUT
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:GFXDEVICE_WAITFOREVENT_MESSAGEPUMP
+-define:PLATFORM_INITIALIZES_MEMORY_MANAGER_EXPLICITLY
+-define:ENABLE_MONO
+-define:NET_4_6
+-define:NET_UNITY_4_8
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_INPUT_SYSTEM
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:UNITY_POST_PROCESSING_STACK_V2
+-define:VRC_SDK_VRCSDK3
+-define:VRC_NEW_HOOK_API
+-define:VRC_NEW_PUBLIC_SDK
+-define:VRCSDK_HAS_DRIVER_COPY
+-define:VRCSDK_HAS_ANIMATOR_PLAY_AUDIO
+-define:VRCSDK_HAS_HEAD_CHOP
+-define:VRCSDK_HAS_VRCCONSTRAINTS
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-define:UNITY_EDITOR_ONLY_COMPILATION
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.EditorToolbarModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.PresetsUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneViewModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.ContentLoadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.ProfilerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.PropertiesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityTestProtocolModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.GradleProject.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/Microsoft.Win32.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.AppContext.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Buffers.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.Concurrent.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.NonGeneric.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.Specialized.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.Annotations.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.EventBasedAsync.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.TypeConverter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Console.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Data.Common.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Contracts.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Debug.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.FileVersionInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Process.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.StackTrace.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Tools.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.TraceSource.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Drawing.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Dynamic.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.Calendars.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.Compression.ZipFile.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.DriveInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.Watcher.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.IsolatedStorage.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.MemoryMappedFiles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.Pipes.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.UnmanagedMemoryStream.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Expressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Queryable.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Memory.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Http.Rtc.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.NameResolution.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.NetworkInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Ping.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Requests.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Security.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Sockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebHeaderCollection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebSockets.Client.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebSockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ObjectModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.DispatchProxy.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.ILGeneration.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.Lightweight.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.Reader.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.ResourceManager.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.Writer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.CompilerServices.VisualC.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Handles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Formatters.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Json.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Claims.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Algorithms.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Csp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.X509Certificates.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Principal.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.SecureString.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Duplex.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Http.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.NetTcp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Security.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.Encoding.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.RegularExpressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Overlapped.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Thread.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.ThreadPool.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Timer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ValueTuple.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.ReaderWriter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XmlDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XmlSerializer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XPath.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XPath.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Microsoft.CSharp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/mscorlib.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Core.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Data.DataSetExtensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Data.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Drawing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.IO.Compression.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.IO.Compression.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Net.Http.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Numerics.Vectors.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Runtime.Serialization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
+-r:"Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"Packages/com.vrcfury.vrcfury/Libs/Newtonsoft.Json.Vrcf.dll"
+-r:"Packages/com.vrchat.avatars/Runtime/VRCSDK/Plugins/VRCSDK3A.dll"
+-r:"Packages/com.vrchat.base/Runtime/VRCSDK/Dependencies/Managed/System.Collections.Immutable.dll"
+-r:"Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRC.Dynamics.dll"
+-r:"Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRC.SDK3.Dynamics.Constraint.dll"
+-r:"Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRC.SDK3.Dynamics.Contact.dll"
+-r:"Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRC.SDK3.Dynamics.PhysBone.dll"
+-r:"Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRCSDKBase-Editor.dll"
+-r:"Packages/com.vrchat.base/Runtime/VRCSDK/Plugins/VRCSDKBase.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/VRC.SDK3A.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/VRC.SDKBase.Editor.BuildPipeline.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/VRC.SDKBase.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/VrcfEditorOnly.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/VRCFury.ref.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Packages/com.vrcfury.vrcfury/Editor/VF/AsyncUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/BadInstallDetector.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/AnimatorConditionLogic.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/AnimatorIterator.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/ClipRewriter.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Exceptions/ExceptionWithCause.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Exceptions/SneakyException.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Exceptions/VRCFBuilderException.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Exceptions/VRCFExceptionUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/GameObjects.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/DpsConfigurer.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/HapticUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/PlugMaskGenerator.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/PlugRendererFinder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/PlugSizeDetector.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/SpsAutoRigger.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/SpsBakedTexture.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/SpsBaker.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/SpsConfigurer.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/SpsDepthContacts.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/SpsErrorMatException.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/SpsPatcher.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/SpsUpgrader.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Haptics/TpsConfigurer.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/MainWindowUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Manager/AvatarManager.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Manager/ControllerManager.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Manager/MenuManager.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/Manager/ParamManager.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/MenuSplitter.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/MeshBaker.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/MmdUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/MutableManager.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/PhysboneUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/VFGameObject.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/VFGameObjectExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/VRCAvatarUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/VRCFArmatureUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/VRCFEnumUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/VRCFPrefabFixer.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/VRCFuryAssetDatabase.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Builder/VRCFuryBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/ActionConflictResolverBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/AnchorOverrideFixBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/AnimatorLayerControlOffsetBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/ApplyDuringUploadBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/ArmatureLinkBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/AvatarScaleBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/BakeGlobalCollidersBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/BakeHapticPlugsBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/BakeHapticSocketsBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/BakeHapticVersionsBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/Base/FeatureBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/Base/FeatureBuilderAction.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/Base/FeatureBuilderActionAttribute.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/Base/FeatureFinder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/Base/FeatureOrder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/BlendShapeLinkBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/BlendshapeOptimizerBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/BlinkingBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/BoneConstraintBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/BoundingBoxFixBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/CleanupEmptyLayersBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/CleanupLegacyBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/CrossEyeFixBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/CustomizerBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/DeleteDuringUploadBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/DescriptorDebugBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/DirectTreeOptimizerBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/FinalizeControllerBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/FinalizeMenuBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/FinalValidationService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/FixAmbiguousObjectNamesBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/FixDoubleFxBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/FixEmptyMotionBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/FixMasksBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/FixWriteDefaultsBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/FixWriteDefaultsEditor.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/ForceStateInAnimatorService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/FullControllerBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/GestureDriverBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/GizmoBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/LocomotionConflictResolverBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/MarkThingsAsDirtyJustInCaseBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/MenuChangesService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/MmdCompatibilityBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/MoveMenuItemBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/NoBadControllerParamsBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/NoUnsetPlayableLayersBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/OGBIntegrationBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/OverrideMenuSettingsBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/PuppetBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/RemoveBlinkingBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/RemoveDefaultControllersService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/RemoveHandGesturesBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/RemoveJunkAnimatorsBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/RemoveNonQuestMaterialsBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/ReorderMenuItemBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/ResetAnimatorBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/SaveAssetsBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/SecurityLockBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/SecurityRestrictedBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/SenkyGestureDriverBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/SetIconBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/ShowInFirstPersonBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/Slot4FixBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/SpsOptionsBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/SpsSendersForAllBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/TalkingBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/ToesBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/ToggleBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/TPSIntegrationBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/TpsScaleFixBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/TrackingConflictResolverBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/UnlimitedParametersBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/VisemesBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/WorldConstraintBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Feature/ZawooIntegrationBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/GuidWrapperExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/AddComponentHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/AllowTooManyParametersHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/AudioLinkPlayModeRefreshHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/Av3EmuAnimatorFixHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/ConstraintUpgradeHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/DisableAutoSaveHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/DisableSomeHooksWhenNotUploadingHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/DoNotImportBadPackagesHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/FixVrcsdkValidatorWrongPlatform.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/IsActuallyUploadingHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/PlayModeContactFixHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/PrefabFixHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/PreProcessingFailureCheckHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/SaneUnitySettingsHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Hooks/VrcPreuploadHook.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Injector/VFAutowiredAttribute.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Injector/VFInjectorParent.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Injector/VFPrototypeScopeAttribute.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Injector/VFServiceAttribute.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Injector/VRCFuryInjector.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/BindingBlock.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/GuidWrapperPropertyDrawer.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VrcfDebugLine.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFGlobalColliderEditor.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VrcfSearchWindow.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryActionEditor.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryComponentEditor.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryComponentHeader.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryDebugInfoEditor.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryEditor.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryEditorUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryGizmoUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryHapticPlugEditor.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryHapticSocketEditor.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryHapticTouchReceiverBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryHapticTouchSenderBuilder.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFurySearchWindowProvider.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryStateEditor.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VRCFuryTestEditor.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Inspector/VrcRegistryConfig.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/LegacyPrefabUnpacker.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/AutoUpgradeDpsMenuItem.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/AvatarCleaner.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/BoundingBoxMenuItem.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/BulkUpgradeUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/ConstrainedProportionsMenuItem.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/DuplicatePhysboneDetector.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/HapticsMenuItem.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/HapticsToggleMenuItem.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/MenuItems.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/MenuUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/PlayModeMenuItem.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/RemoveUselessOverridesMenuItem.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/UnusedBoneCleaner.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/UseInUploadMenuItem.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/VRCFuryTestCopyMenuItem.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Menu/ZawooDeleter.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/PlayMode/FixWriteDefaultsLater.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/PlayModeTrigger.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/PreSaveVerifier.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/ReflectionUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ActionClipService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ArmatureLinkService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/AvatarBindingStateService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/BlendTreeNormalizingService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/BlendTreeOptimizingService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/BoundingBoxFixService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ClipBuilderService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ClipFactoryService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ClipFactoryTrackingService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ClipRewriteService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/DirectBlendTreeService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/DriveOtherTypesFromFloatService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ExceptionService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/FakeHeadService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/FindAnimatedTransformsService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/FixAnimatedPhysbonesService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/FixAudioService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/FixMenuIconTexturesService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/FixMipmapStreaming.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/FrameTimeService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/FullBodyEmoteService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/GlobalsService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/HapticAnimContactsService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/HapticContactsService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/HideAnnoyingGizmosService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/LayerSourceService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/MathService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ObjectMoveService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/OriginalAvatarService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/OverlappingContactsFixService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ParticleSystemFixService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/PhysboneResetService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/RemoveExtraDescriptorsService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/RestingStateService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ScaleFactorService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/ScalePropertyCompensationService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/SmoothingService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/SpsOptionsService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/UniqueHapticNamesService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Service/UpgradeToVrcConstraintsService.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/TmpFilePackage.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/UnityCompatUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/UnityReflection.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Updater/UpdateMenuItem.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/AnimationClipExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/AnimationRewriter.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/AnimationRewriterExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/AnimatorControllerExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/AnimatorStateExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/AnimatorStateMachineExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/AnimatorTransitionBaseExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/AvatarMaskExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/BlendTreeExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/BuildTargetUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/ClosestBoneUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/CollapseUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/ComponentExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/ConstraintUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Controller/VFABool.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Controller/VFAFloat.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Controller/VFAInteger.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Controller/VFAParam.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Controller/VFCondition.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Controller/VFController.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Controller/VFEntryTransition.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Controller/VFLayer.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Controller/VFState.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Controller/VFTransition.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/EditorCurveBindingExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/EditorCurveBindingType.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/EditorOnlyUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/EnumerableExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/ErrorCatcher.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/FloatOrObject.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/FloatOrObjectCurve.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/IConstraintExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/MaterialExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/MaterialLocker.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/MenuEstimator.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/MeshExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/MotionExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/ObjectExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/PoiyomiUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/RecorderUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/RendererExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Scheduler.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/SerializedPropertyExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/ShaderExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/SkinnedMeshRendererExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/StringExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Texture2DExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/TypeExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/Vector2Extensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VFBlendTree.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VFConstraint.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VFMultimap.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VfVisualElementExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VRCExpressionParametersExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VRCExpressionsMenuExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VrcfAnimationDebugInfo.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VrcfMath.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VrcfObjectCloner.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VrcfObjectFactory.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/Utils/VrcfObjectId.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/VRCFPackageUtils.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/VRCFProgressWindow.cs"
+"Packages/com.vrcfury.vrcfury/Editor/VF/VRCFuryComponentExtensions.cs"
+"Packages/com.vrcfury.vrcfury/Editor/_InternalsVisibleTo.cs"
+-langversion:9.0
+
+/deterministic
+/optimize+
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+
+/nowarn:0169
+/nowarn:0649
+/nowarn:0282
+/nowarn:1701
+/nowarn:1702
+-warnaserror+
+-nowarn:0649
+-nowarn:0169
+/utf8output
+/preferreduilang:en-US
+
+
+
+/additionalfile:"Library/Bee/artifacts/1900b0aE.dag/VRCFury-Editor.UnityAdditionalFile.txt"
